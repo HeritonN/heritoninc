@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Azbuka Doma",
+    "slug": "azbuka-doma",
+    "version": "1.0.0",
+    "sdkVersion": "52.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
